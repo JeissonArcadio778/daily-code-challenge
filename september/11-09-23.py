@@ -13,8 +13,6 @@ Dada una lista, inviértela sin usar la función reverse() ni slicing.
 Clase Estudiante:
 Crea una clase Estudiante que tenga atributos como nombre, edad y calificaciones. Incluye métodos para calcular el promedio de calificaciones y para mostrar la información del estudiante.
 
-Ordenar lista:
-Dada una lista de números, ordénala manualmente utilizando el algoritmo de burbuja (bubble sort).
 
 Contar vocales:
 Dado un texto, cuenta cuántas vocales tiene y muestra la cantidad de cada una.
