@@ -17,8 +17,7 @@ Crea una clase Estudiante que tenga atributos como nombre, edad y calificaciones
 Contar vocales:
 Dado un texto, cuenta cuántas vocales tiene y muestra la cantidad de cada una.
 
-Agenda telefónica:
-Crea una pequeña agenda telefónica donde se pueda agregar, editar y eliminar contactos. Usa un diccionario para guardar la información de los contactos.
+
 
 Fibonacci:
 Genera los primeros n números de la secuencia Fibonacci, donde n es un número ingresado por el usuario.
