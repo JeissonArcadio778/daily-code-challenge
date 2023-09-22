@@ -61,7 +61,7 @@ for i in range(0, len(numbers)):
         
 print(analized_numbers)
 
-
+    
 # Invertir lista:
 # Dada una lista, inviértela sin usar la función reverse() ni slicing.
 
