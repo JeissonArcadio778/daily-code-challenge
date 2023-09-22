@@ -19,8 +19,7 @@ Dado un texto, cuenta cuántas vocales tiene y muestra la cantidad de cada una.
 
 
 
-Fibonacci:
-Genera los primeros n números de la secuencia Fibonacci, donde n es un número ingresado por el usuario.
+
 """
 
 
