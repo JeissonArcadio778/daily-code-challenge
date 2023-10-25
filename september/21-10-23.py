@@ -20,9 +20,6 @@ fibonacchi_n(10)
 
 
 """
-Anagramas:
-Escribe una función que tome dos strings y devuelva True si uno es un anagrama del otro y False en caso contrario.
-
 Subcadena más larga sin repetir caracteres:
 Dado un string, encuentra la subcadena más larga que no tenga caracteres repetidos.
 
