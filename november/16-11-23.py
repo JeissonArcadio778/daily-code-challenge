@@ -62,3 +62,18 @@ inventory = [
 
 print(sales_bread(inventory))
 
+""" 
+https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true
+"""
+
+
+arr = [1,2,1,2,4,1,3,2,1] # r = 2
+
+def sockMerchant(n, ar:list):
+    colors = set(ar)
+    counter = 0
+    for color in colors:
+        count += ar.count(color) // 2
+    return counter
+   
+sockMerchant(len(arr),arr)
